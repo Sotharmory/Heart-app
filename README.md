@@ -1,4 +1,4 @@
-Heart Disease Prediction App
+Heart App
 Overview
 The Heart Disease Prediction App is a comprehensive application designed to assist healthcare professionals and individuals in predicting the likelihood of heart disease using various data inputs. The app integrates multiple functionalities, including predictive analytics, text extraction from images, and a chat bot for interactive assistance.
 
@@ -28,3 +28,4 @@ Benefits
 Accuracy: Provides accurate predictions and assessments based on extensive data analysis.
 Convenience: Offers an easy-to-use interface for both predictive analytics and text extraction.
 Support: Enhances user engagement and support through an interactive chat bot.
+
